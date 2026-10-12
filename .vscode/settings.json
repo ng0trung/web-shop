@@ -1,0 +1,6 @@
+{
+    "prettier.bracketSpacing": true,
+    "files.autoSave": "onFocusChange",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+}
