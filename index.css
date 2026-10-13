@@ -1,0 +1,20 @@
+body {
+  background-image: url(./IMG.avif);
+  color: rgb(33, 58, 180);
+  font-style: normal;
+
+  h1 {
+    opacity: 100%;
+  }
+  h3 {
+    margin-top: 30px;
+    text-decoration: none;
+    background-color: rgb(35, 121, 142);
+    border-radius: 999px;
+    color: black;
+    width: 200px;
+    padding: 8px 16px;
+    text-align: center;
+    display: inline-block;
+  }
+}
