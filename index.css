@@ -12,9 +12,14 @@ body {
     background-color: rgb(35, 121, 142);
     border-radius: 999px;
     color: black;
-    width: 200px;
+    width: 250px;
     padding: 8px 16px;
     text-align: center;
     display: inline-block;
+  }
+
+  h3:hover {
+    background-color: rgb(182, 209, 27);
+    font-size: 20px;
   }
 }
